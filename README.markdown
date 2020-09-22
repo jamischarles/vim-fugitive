@@ -1,3 +1,6 @@
+## Difference in this fork
+- removed `y<C-G>` mapping because it conflicts with my colemak mappings.
+
 # fugitive.vim
 
 Fugitive is the premier Vim plugin for Git.  Or maybe it's the premier Git
